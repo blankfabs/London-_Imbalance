@@ -1,1 +1,1 @@
-# Data package for downloading forex data
+# Backtester package
