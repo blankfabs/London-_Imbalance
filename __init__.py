@@ -1,1 +1,1 @@
-# Backtester package
+# Strategy package
